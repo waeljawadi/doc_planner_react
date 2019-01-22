@@ -1,0 +1,24 @@
+img {
+  max-width: 100%;
+}
+
+.float_to_right * {
+  float: right;
+}
+
+.mynav {
+  max-width: 1015px;
+}
+
+.mynav .nav a {
+  color: #ababab;
+}
+
+.mynav .nav a:hover {
+  color: #00b39b;
+}
+
+.mynav .dropdown_toggle {
+  background-color: transparent !important;
+}
+/*# sourceMappingURL=styleHeader.module.css.map */

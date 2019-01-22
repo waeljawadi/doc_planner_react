@@ -1,0 +1,46 @@
+.the_before {
+    background: url('../../../images/logo.png') #e5faf8 no-repeat;
+    padding-top:4%;
+    padding-bottom: 4%;
+    background-position: left 150%;
+    .theh1
+    {
+        text-align: left;
+        color:#00b39b;
+    }
+
+}
+
+.bck {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.05);
+    min-height: 250px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: .8125em;
+    margin-bottom: 4%;
+    margin-left: 1%;
+    margin-left: 4%;
+
+    .firstp {
+        font-size: 2em;
+        font-size: 1.8461538462em;
+        color: #00b39b;
+        margin: .5em 0;
+    }
+    .lastp {
+        color:#8d74a4;
+        padding-bottom: 20px;
+
+    }
+    
+
+}
+
+
+@media (min-width:1200px) {
+    .bck {
+        max-width: 46%;
+    }
+}
